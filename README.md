@@ -19,6 +19,8 @@ These lists are exactly the same. However, the lowercase version feels much more
 
 Please follow the [https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists#3rd-party-filter-lists](uBlock documentation) for adding a 3rd-party filter list.
 
+For the filter URL, use: https://github.com/aelipsi/WordleLowerCase/raw/main/WordleLowerCase.txt
+
 ## Note
 
 This project is not associated with Wordle, any of its derivatives, uBlock, or any of its derivatives.
