@@ -17,7 +17,7 @@ These lists are exactly the same. However, the lowercase version feels much more
 
 ## Configuration
 
-Please follow the [https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists#3rd-party-filter-lists](uBlock documentation) for adding a 3rd-party filter list.
+Please follow the [uBlock documentation](https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists#3rd-party-filter-lists) for adding a 3rd-party filter list.
 
 For the filter URL, use: https://github.com/aelipsi/WordleLowerCase/raw/main/WordleLowerCase.txt
 
